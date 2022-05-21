@@ -1,0 +1,7 @@
+1) Create a virtual environment from requirements.txt
+2) Enter the virtual environment and run gui.py
+3) Upload a file for the modulator signal
+4) At this point you can play the uploaded file
+5) Modify oscillator parameters and press soundblend button at the center
+   ** Any subsequent changes to the oscillators must be applied through the soundblend button before playback
+6) Play or  download output file
